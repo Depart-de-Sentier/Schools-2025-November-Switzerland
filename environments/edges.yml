@@ -1,0 +1,11 @@
+name: edges
+channels:
+  - conda-forge
+dependencies:
+  - brightway25
+  - edges
+  - ipykernel
+  - nb_conda_kernels
+  - pypardiso
+  - python[version='>=3.10,<3.12']
+prefix: /opt/tljh/user/envs/edges

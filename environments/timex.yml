@@ -1,0 +1,8 @@
+name: timex
+channels:
+  - conda-forge
+dependencies:
+  - bw_timex[version='>=0.3.3']
+  - python==3.11
+  - pypardiso
+prefix: /opt/tljh/user/envs/timex

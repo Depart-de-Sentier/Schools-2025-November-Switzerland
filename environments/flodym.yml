@@ -1,0 +1,9 @@
+name: flodym
+channels:
+  - conda-forge
+dependencies:
+  - python==3.12
+  - anywidget
+  - plotly
+  - jupyterlab_rise
+prefix: /opt/tljh/user/envs/flodym

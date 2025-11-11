@@ -1,0 +1,12 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - brightway25
+  - anywidget
+  - plotly
+  - stats_arrays
+  - seaborn
+  - pypardiso
+prefix: /opt/tljh/user
