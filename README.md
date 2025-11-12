@@ -46,6 +46,7 @@ It’s your one-stop entry to all materials, sessions, and resources.
 - 9:45 Group work
 - 12:00 Lunch
 - 13:30 Group work
+- 16:15 Group picture (assemble in outside patio)
 - 18:30 Dinner
 - 20:00 Group work
 
