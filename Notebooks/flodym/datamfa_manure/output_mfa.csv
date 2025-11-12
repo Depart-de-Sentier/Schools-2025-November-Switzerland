@@ -1,0 +1,11 @@
+flow_name,substance,value
+sysenv => dewatering,Dry matter,100.0
+sysenv => dewatering,Water,900.0
+dewatering => soil application,Dry matter,60.0
+dewatering => soil application,Water,180.0
+dewatering => storage,Dry matter,40.0
+dewatering => storage,Water,720.0
+soil application => sysenv,Dry matter,60.0
+soil application => sysenv,Water,180.0
+storage => sysenv,Dry matter,40.0
+storage => sysenv,Water,720.0
