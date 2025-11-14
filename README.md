@@ -2,6 +2,10 @@
 
 ![Group Picture](./Pictures/group-picture-cropped.png)
 
+# Groups
+
++ [🐮 🐾 PAW Prospective assessment of wastewater treatment](https://github.com/isabelapi/PAW_MFA_LCA_2025)
+
 # Schedule
 
 ## Sunday
