@@ -8,6 +8,7 @@
 + [♼ 🏢 REFLOC Recycling flows of concrete](https://github.com/MeYiwen/DdS_REFLOC)
 + [🤠 🤦 MFA Modelling for Anxiety](https://github.com/Tanima-Sharma/PVProject)
 + [🧺🧼 Washmingmashinglearning](https://github.com/Mael-Mouhoub/Washmingmashinglearning)
++ [💩 🤓 DAVE devs](https://github.com/gergosuto/dds2025manure)
 
 # Schedule
 
