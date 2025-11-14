@@ -1,10 +1,6 @@
 # Autumn School 2025 — Switzerland
 
-### 👋 Welcome
-
-This is your **Repository** for the *Autumn School 2025 – Switzerland* 🍂  
-It’s your one-stop entry to all materials, sessions, and resources.
-
+![Group Picture](./Pictures/group-picture-cropped.png)
 
 # Schedule
 
@@ -66,5 +62,5 @@ It’s your one-stop entry to all materials, sessions, and resources.
 - 12:00 Lunch
 - 14:00 Group presentations
 - 15:15 Course review and feedback
-- 15:45 Next steps
-- 16:00 Apéro
+- 15:45 DdS: Our plans and how you can help
+- 16:15 Apéro
